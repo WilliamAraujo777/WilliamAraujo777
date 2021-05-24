@@ -2,7 +2,7 @@
 
 
 
-<h1>Saudações, o meu nome é William e sou um estudante de desenvolvimento de sistemas!</h1>
+<p>Saudações, o meu nome é William e sou um estudante de desenvolvimento de sistemas!</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamAraujo777&show_icons=true&theme=default)
